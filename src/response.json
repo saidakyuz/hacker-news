@@ -1,0 +1,990 @@
+{
+    "hits": [{
+            "created_at": "2017-05-01T01:55:04.000Z",
+            "title": "“A closure is a poor man’s object; an object is a poor man’s closure” (2003)",
+            "url": "http://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html",
+            "author": "noblethrasher",
+            "points": 289,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 227,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1493603704,
+            "relevancy_score": 7405,
+            "_tags": [
+                "story",
+                "author_noblethrasher",
+                "story_14235020"
+            ],
+            "objectID": "14235020",
+            "_highlightResult": {
+                "title": {
+                    "value": "“A closure is a poor man’s \u003cem\u003eobject\u003c/em\u003e; an \u003cem\u003eobject\u003c/em\u003e is a poor man’s closure” (2003)",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "http://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "noblethrasher",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2015-01-03T22:11:53.000Z",
+            "title": "A Proposal for Simplified Definitions of “Object” and “Object Oriented” (2012)",
+            "url": "http://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html",
+            "author": "abecedarius",
+            "points": 22,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 8,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1420323113,
+            "relevancy_score": 5765,
+            "_tags": [
+                "story",
+                "author_abecedarius",
+                "story_8832211"
+            ],
+            "objectID": "8832211",
+            "_highlightResult": {
+                "title": {
+                    "value": "A Proposal for Simplified Definitions of “\u003cem\u003eObject\u003c/em\u003e” and “\u003cem\u003eObject\u003c/em\u003e Oriented” (2012)",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "http://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "abecedarius",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2012-07-11T20:25:55.000Z",
+            "title": "A Proposal for a Simplified, Modern Definition of \"Object\" and \"Object Oriented\"",
+            "url": "http://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html",
+            "author": "johndcook",
+            "points": 5,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1342038355,
+            "relevancy_score": 4031,
+            "_tags": [
+                "story",
+                "author_johndcook",
+                "story_4231284"
+            ],
+            "objectID": "4231284",
+            "_highlightResult": {
+                "title": {
+                    "value": "A Proposal for a Simplified, Modern Definition of \"\u003cem\u003eObject\u003c/em\u003e\" and \"\u003cem\u003eObject\u003c/em\u003e Oriented\"",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "http://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "johndcook",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2017-01-25T13:39:23.000Z",
+            "title": "Show HN: Design Time Mapper – Compile time object-object mapper for C#",
+            "url": "https://github.com/AlistairClark7/DesignTimeMapper",
+            "author": "alistairclark7",
+            "points": 5,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1485351563,
+            "relevancy_score": 7216,
+            "_tags": [
+                "story",
+                "author_alistairclark7",
+                "story_13481262",
+                "show_hn"
+            ],
+            "objectID": "13481262",
+            "_highlightResult": {
+                "title": {
+                    "value": "Show HN: Design Time Mapper – Compile time \u003cem\u003eobject\u003c/em\u003e-\u003cem\u003eobject\u003c/em\u003e mapper for C#",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "https://github.com/AlistairClark7/DesignTimeMapper",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "alistairclark7",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2015-07-20T17:03:30.000Z",
+            "title": "[object Object] Things You Didn’t Know About JavaScript's ValueOf",
+            "url": "https://medium.com/@kevincennis/object-object-things-you-didn-t-know-about-valueof-38f2a88dfb33",
+            "author": "ScottWRobinson",
+            "points": 4,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1437411810,
+            "relevancy_score": 6155,
+            "_tags": [
+                "story",
+                "author_ScottWRobinson",
+                "story_9917360"
+            ],
+            "objectID": "9917360",
+            "_highlightResult": {
+                "title": {
+                    "value": "[\u003cem\u003eobject\u003c/em\u003e \u003cem\u003eObject\u003c/em\u003e] Things You Didn’t Know About JavaScript's ValueOf",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "https://medium.com/@kevincennis/\u003cem\u003eobject\u003c/em\u003e-\u003cem\u003eobject\u003c/em\u003e-things-you-didn-t-know-about-valueof-38f2a88dfb33",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "author": {
+                    "value": "ScottWRobinson",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2011-07-11T17:02:18.000Z",
+            "title": "JavaScript Object Object: Built-in Delegation",
+            "url": "http://www.diveintojavascript.com/core-javascript-reference/the-object-object",
+            "author": "DanielRibeiro",
+            "points": 3,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1310403738,
+            "relevancy_score": 3331,
+            "_tags": [
+                "story",
+                "author_DanielRibeiro",
+                "story_2751524"
+            ],
+            "objectID": "2751524",
+            "_highlightResult": {
+                "title": {
+                    "value": "JavaScript \u003cem\u003eObject\u003c/em\u003e \u003cem\u003eObject\u003c/em\u003e: Built-in Delegation",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "http://www.diveintojavascript.com/core-javascript-reference/the-\u003cem\u003eobject\u003c/em\u003e-\u003cem\u003eobject\u003c/em\u003e",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "author": {
+                    "value": "DanielRibeiro",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2017-12-12T06:41:29.000Z",
+            "title": "CSharp tool: A automatic object-object mapper",
+            "url": "https://github.com/ClockGet/AutoCopy",
+            "author": "nightdancer",
+            "points": 2,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1513060889,
+            "relevancy_score": 7834,
+            "_tags": [
+                "story",
+                "author_nightdancer",
+                "story_15903471"
+            ],
+            "objectID": "15903471",
+            "_highlightResult": {
+                "title": {
+                    "value": "CSharp tool: A automatic \u003cem\u003eobject\u003c/em\u003e-\u003cem\u003eobject\u003c/em\u003e mapper",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "https://github.com/ClockGet/AutoCopy",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "nightdancer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2013-06-08T19:30:49.000Z",
+            "title": "Virtus 1.0.0 (Ruby Object Mapper object description DSL) fundraiser",
+            "url": "https://www.bountysource.com/#fundraisers/329-virtus-1-0-0",
+            "author": "Argorak",
+            "points": 1,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 1,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1370719849,
+            "relevancy_score": 4662,
+            "_tags": [
+                "story",
+                "author_Argorak",
+                "story_5845988"
+            ],
+            "objectID": "5845988",
+            "_highlightResult": {
+                "title": {
+                    "value": "Virtus 1.0.0 (Ruby \u003cem\u003eObject\u003c/em\u003e Mapper \u003cem\u003eobject\u003c/em\u003e description DSL) fundraiser",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "https://www.bountysource.com/#fundraisers/329-virtus-1-0-0",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "Argorak",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2015-07-20T13:13:51.000Z",
+            "title": "[object Object] Things You Didn’t Know About JavaScript's ValueOf",
+            "url": "http://kevvv.in/object-object-things-you-didnt-know-about-valueof/",
+            "author": "kevincennis",
+            "points": 1,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1437398031,
+            "relevancy_score": 6154,
+            "_tags": [
+                "story",
+                "author_kevincennis",
+                "story_9915774"
+            ],
+            "objectID": "9915774",
+            "_highlightResult": {
+                "title": {
+                    "value": "[\u003cem\u003eobject\u003c/em\u003e \u003cem\u003eObject\u003c/em\u003e] Things You Didn’t Know About JavaScript's ValueOf",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "http://kevvv.in/\u003cem\u003eobject\u003c/em\u003e-\u003cem\u003eobject\u003c/em\u003e-things-you-didnt-know-about-valueof/",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "author": {
+                    "value": "kevincennis",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2014-03-31T15:51:06.000Z",
+            "title": " Why You Should Never Use Object == Object in Java",
+            "url": "http://windward.net/blogs/programming-in-practice/java-programmers-never-use-object-object",
+            "author": "javinpaul",
+            "points": 1,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1396281066,
+            "relevancy_score": 5240,
+            "_tags": [
+                "story",
+                "author_javinpaul",
+                "story_7502200"
+            ],
+            "objectID": "7502200",
+            "_highlightResult": {
+                "title": {
+                    "value": " Why You Should Never Use \u003cem\u003eObject\u003c/em\u003e == \u003cem\u003eObject\u003c/em\u003e in Java",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "http://windward.net/blogs/programming-in-practice/java-programmers-never-use-\u003cem\u003eobject\u003c/em\u003e-\u003cem\u003eobject\u003c/em\u003e",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "author": {
+                    "value": "javinpaul",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2012-07-14T00:40:43.000Z",
+            "title": "A Proposal for Simplified, Modern Definitions of \"Object\" and \"Object Oriented\"",
+            "url": "http://wcook.blogspot.fr/2012/07/proposal-for-simplified-modern.html",
+            "author": "seanmcdirmid",
+            "points": 1,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1342226443,
+            "relevancy_score": 4030,
+            "_tags": [
+                "story",
+                "author_seanmcdirmid",
+                "story_4242645"
+            ],
+            "objectID": "4242645",
+            "_highlightResult": {
+                "title": {
+                    "value": "A Proposal for Simplified, Modern Definitions of \"\u003cem\u003eObject\u003c/em\u003e\" and \"\u003cem\u003eObject\u003c/em\u003e Oriented\"",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "http://wcook.blogspot.fr/2012/07/proposal-for-simplified-modern.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "seanmcdirmid",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2012-07-13T02:28:40.000Z",
+            "title": "A Proposal for Simplified, Modern Definitions of \"Object\" and \"Object Oriented\"",
+            "url": "http://wcook.blogspot.com.br/2012/07/proposal-for-simplified-modern.html",
+            "author": "DanielRibeiro",
+            "points": 1,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1342146520,
+            "relevancy_score": 4030,
+            "_tags": [
+                "story",
+                "author_DanielRibeiro",
+                "story_4237933"
+            ],
+            "objectID": "4237933",
+            "_highlightResult": {
+                "title": {
+                    "value": "A Proposal for Simplified, Modern Definitions of \"\u003cem\u003eObject\u003c/em\u003e\" and \"\u003cem\u003eObject\u003c/em\u003e Oriented\"",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "http://wcook.blogspot.com.br/2012/07/proposal-for-simplified-modern.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "DanielRibeiro",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-02-27T14:48:19.000Z",
+            "title": "Building a Blazing Fast Object-to-Object Mapper in C# with .NET Core 3.1",
+            "url": "https://www.twilio.com/blog/building-blazing-fast-object-mapper-c-sharp-net-core",
+            "author": "makaimc",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1582814899,
+            "_tags": [
+                "story",
+                "author_makaimc",
+                "story_22433671"
+            ],
+            "objectID": "22433671",
+            "_highlightResult": {
+                "title": {
+                    "value": "Building a Blazing Fast \u003cem\u003eObject\u003c/em\u003e-to-\u003cem\u003eObject\u003c/em\u003e Mapper in C# with .NET Core 3.1",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "https://www.twilio.com/blog/building-blazing-fast-\u003cem\u003eobject\u003c/em\u003e-mapper-c-sharp-net-core",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "author": {
+                    "value": "makaimc",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2017-08-12T08:23:19.000Z",
+            "title": "A Proposal for Simplified, Modern Definitions of “Object” and “Object Oriented”",
+            "url": "http://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html?m=0",
+            "author": "chobytes",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1502526199,
+            "relevancy_score": 7592,
+            "_tags": [
+                "story",
+                "author_chobytes",
+                "story_14997023"
+            ],
+            "objectID": "14997023",
+            "_highlightResult": {
+                "title": {
+                    "value": "A Proposal for Simplified, Modern Definitions of “\u003cem\u003eObject\u003c/em\u003e” and “\u003cem\u003eObject\u003c/em\u003e Oriented”",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "http://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html?m=0",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "chobytes",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2010-02-18T17:16:13.000Z",
+            "title": "My object to object mapper source released",
+            "url": "http://weblogs.asp.net/gunnarpeipman/archive/2010/02/18/my-object-to-object-mapper-source-released.aspx",
+            "author": "gpeipman",
+            "points": 1,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1266513373,
+            "relevancy_score": 2350,
+            "_tags": [
+                "story",
+                "author_gpeipman",
+                "story_1134653"
+            ],
+            "objectID": "1134653",
+            "_highlightResult": {
+                "title": {
+                    "value": "My \u003cem\u003eobject\u003c/em\u003e to \u003cem\u003eobject\u003c/em\u003e mapper source released",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "http://weblogs.asp.net/gunnarpeipman/archive/2010/02/18/my-\u003cem\u003eobject\u003c/em\u003e-to-\u003cem\u003eobject\u003c/em\u003e-mapper-source-released.aspx",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "author": {
+                    "value": "gpeipman",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2010-02-12T06:29:50.000Z",
+            "title": "Writing object to object mapper: my mapper vs AutoMapper",
+            "url": "http://weblogs.asp.net/gunnarpeipman/archive/2010/02/12/writing-object-to-object-mapper-my-mapper-vs-automapper.aspx",
+            "author": "gpeipman",
+            "points": 1,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1265956190,
+            "relevancy_score": 2337,
+            "_tags": [
+                "story",
+                "author_gpeipman",
+                "story_1119931"
+            ],
+            "objectID": "1119931",
+            "_highlightResult": {
+                "title": {
+                    "value": "Writing \u003cem\u003eobject\u003c/em\u003e to \u003cem\u003eobject\u003c/em\u003e mapper: my mapper vs AutoMapper",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "http://weblogs.asp.net/gunnarpeipman/archive/2010/02/12/writing-\u003cem\u003eobject\u003c/em\u003e-to-\u003cem\u003eobject\u003c/em\u003e-mapper-my-mapper-vs-automapper.aspx",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "author": {
+                    "value": "gpeipman",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2010-02-11T00:30:55.000Z",
+            "title": "Writing object to object mapper: moving to generics",
+            "url": "http://weblogs.asp.net/gunnarpeipman/archive/2010/02/11/writing-object-to-object-mapper-moving-to-generics.aspx",
+            "author": "gpeipman",
+            "points": 1,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1265848255,
+            "relevancy_score": 2337,
+            "_tags": [
+                "story",
+                "author_gpeipman",
+                "story_1116518"
+            ],
+            "objectID": "1116518",
+            "_highlightResult": {
+                "title": {
+                    "value": "Writing \u003cem\u003eobject\u003c/em\u003e to \u003cem\u003eobject\u003c/em\u003e mapper: moving to generics",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "http://weblogs.asp.net/gunnarpeipman/archive/2010/02/11/writing-\u003cem\u003eobject\u003c/em\u003e-to-\u003cem\u003eobject\u003c/em\u003e-mapper-moving-to-generics.aspx",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "author": {
+                    "value": "gpeipman",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2010-02-07T12:35:25.000Z",
+            "title": "Writing object to object mapper: first implementations",
+            "url": "http://weblogs.asp.net/gunnarpeipman/archive/2010/02/07/writing-object-to-object-mapper-first-implementations.aspx",
+            "author": "gpeipman",
+            "points": 1,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1265546125,
+            "relevancy_score": 2323,
+            "_tags": [
+                "story",
+                "author_gpeipman",
+                "story_1107601"
+            ],
+            "objectID": "1107601",
+            "_highlightResult": {
+                "title": {
+                    "value": "Writing \u003cem\u003eobject\u003c/em\u003e to \u003cem\u003eobject\u003c/em\u003e mapper: first implementations",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "http://weblogs.asp.net/gunnarpeipman/archive/2010/02/07/writing-\u003cem\u003eobject\u003c/em\u003e-to-\u003cem\u003eobject\u003c/em\u003e-mapper-first-implementations.aspx",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "author": {
+                    "value": "gpeipman",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2015-08-19T13:33:05.000Z",
+            "title": "Java object to object mapping – which framework to choose? – Part 2",
+            "url": "http://www.aracrown.org/blog/Java-object-to-object-mapping-which-framework-to-choose-Part-2/",
+            "author": "turisto",
+            "points": 1,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1439991185,
+            "relevancy_score": 6207,
+            "_tags": [
+                "story",
+                "author_turisto",
+                "story_10085252"
+            ],
+            "objectID": "10085252",
+            "_highlightResult": {
+                "title": {
+                    "value": "Java \u003cem\u003eobject\u003c/em\u003e to \u003cem\u003eobject\u003c/em\u003e mapping – which framework to choose? – Part 2",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "http://www.aracrown.org/blog/Java-\u003cem\u003eobject\u003c/em\u003e-to-\u003cem\u003eobject\u003c/em\u003e-mapping-which-framework-to-choose-Part-2/",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "author": {
+                    "value": "turisto",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2015-08-05T07:37:01.000Z",
+            "title": "Java object to object mapping – which framework to choose? – Part 1",
+            "url": "http://www.aracrown.org/blog/Java-object-to-object-mapping-which-framework-to-choose/",
+            "author": "turisto",
+            "points": 1,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1438760221,
+            "relevancy_score": 6180,
+            "_tags": [
+                "story",
+                "author_turisto",
+                "story_10008417"
+            ],
+            "objectID": "10008417",
+            "_highlightResult": {
+                "title": {
+                    "value": "Java \u003cem\u003eobject\u003c/em\u003e to \u003cem\u003eobject\u003c/em\u003e mapping – which framework to choose? – Part 1",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "url": {
+                    "value": "http://www.aracrown.org/blog/Java-\u003cem\u003eobject\u003c/em\u003e-to-\u003cem\u003eobject\u003c/em\u003e-mapping-which-framework-to-choose/",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "object",
+                        "object"
+                    ]
+                },
+                "author": {
+                    "value": "turisto",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }
+    ],
+    "nbHits": 3333,
+    "page": 0,
+    "nbPages": 50,
+    "hitsPerPage": 20,
+    "exhaustiveNbHits": true,
+    "query": "[object Object]",
+    "params": "advancedSyntax=true\u0026analytics=true\u0026analyticsTags=backend\u0026query=%5Bobject+Object%5D\u0026tags=story",
+    "processingTimeMS": 5
+}
